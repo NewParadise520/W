@@ -51,11 +51,11 @@
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "http://paradise.nctu.me/",
+    "siteUrl": "https://paradise.nctu.me/",
     "uniqCompNum": 55,
     "versionPublish": "4.12.1",
     "screenshot": "screenshot.png",
-    "canonical-url": "http://paradise.nctu.me",
+    "canonical-url": "https://paradise.nctu.me",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "cookiesAlert": {
       "customDialogSelector": false,
@@ -69,7 +69,7 @@
       "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
       "textButton": "Agree"
     },
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-NFXJNFGL9P\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-NFXJNFGL9P');\n</script>"
+    "google-analytics": "<!-- Google Tag Manager -->\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=G-NFXJNFGL9P\" data-credentials=\"include\"></amp-analytics>"
   },
   "pages": {
     "index.html": {
