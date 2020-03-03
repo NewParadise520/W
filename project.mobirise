@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "新樂園精品會館 New Paradise｜高雄酒店｜制服｜便服｜選妃｜KTV｜CLUB",
-    "currentPage": "index.html",
+    "currentPage": "policy.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -5279,7 +5279,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content5",
-          "_customHTML": "<section class=\"mbr-section content5\" plugins=\"amp-main\" group=\"Article\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-container\">\n        <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary-outline\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">關於新樂園</a> <a class=\"btn btn-danger-outline\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">服務條款</a>\n            <a class=\"btn btn-white-outline\" href=\"index.html\" data-app-placeholder=\"Type Text\">新樂園主頁</a></div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content5\" plugins=\"amp-main\" group=\"Article\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-container\">\n        <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary-outline\" href=\"about.html\" data-app-placeholder=\"Type Text\">關於新樂園</a> <a class=\"btn btn-danger-outline\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">服務條款</a>\n            <a class=\"btn btn-white-outline\" href=\"index.html\" data-app-placeholder=\"Type Text\">新樂園主頁</a></div>\n    </div>\n</section>",
           "_anchor": "content5-53",
           "_isUserblock": true,
           "_sourceTheme": "mobirise-amp",
