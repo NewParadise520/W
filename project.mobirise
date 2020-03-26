@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "新樂園精品會館 New Paradise｜高雄酒店｜制服｜便服｜選妃｜KTV｜CLUB",
-    "currentPage": "index.html",
+    "currentPage": "sitemap.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -7770,7 +7770,7 @@
             }
           },
           "_name": "content19",
-          "_customHTML": "<section class=\"mbr-section content19\" group=\"Article\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/img-3106-2000x1125.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#000000\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-container\">\n        <h2 mbr-if=\"showTitle\" class=\"mbr-title align-center mbr-fonts-style mbr-bold mbr-white\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-title\">酒類清單<br>\n        </h2>\n        <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style mbr-white\" mbr-theme-style=\"display-7\"><b><br></b></h3>\n        <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"新樂園會館-菜單.html\" data-app-placeholder=\"Type Text\">美食饗宴</a>\n            <a class=\"btn btn-secondary\" href=\"index.html\" data-app-placeholder=\"Type Text\">新樂園主頁</a></div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content19\" group=\"Article\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/img-3106-2000x1125.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#000000\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-container\">\n        <h2 mbr-if=\"showTitle\" class=\"mbr-title align-center mbr-fonts-style mbr-bold mbr-white\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-title\">酒類清單<br>\n        </h2>\n        <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style mbr-white\" mbr-theme-style=\"display-7\">由高往低排序 - 良心售價<b></b><div>.....................................................</div><div>約翰走路 藍牌 $4000-</div><div><br></div><div>(台灣限定)麥卡倫 御黑 $3200-</div><div><br></div><div>皇家禮炮 21年 $3200-</div><div><br></div><div>蘇格登 18年 $3000</div><div><br></div><div>約翰走路 XR $2700-</div><div><br></div><div>約翰走路 尊爵2500-</div><div><br></div><div>大摩 15年 $2300-</div><div><br></div><div>蘇格登15年 $2000-</div><div><br></div><div>麥卡倫 12年 $1700-</div><div><br></div><div>軒尼詩 VSOP $1500-</div><div><br></div><div>百富 12年 $1500-</div><div><br></div><div>麥卡倫 雙筒 $1500-</div><div><br></div><div>蘇格登 大師 $1400-</div><div><br></div><div>格蘭利威 15年 $1400-</div><div><br></div><div>大摩 12年 $1300-</div><div><br></div><div>亞伯樂 12年 $1300-</div><div><br></div><div>詩貝 CC $1300-</div><div><br></div><div>蘇格登 12年 $1300-</div><div><br></div><div>格蘭利威 13年 $1300-</div><div><br></div><div>裸雀 $1100-</div><div><br></div><div>格蘭利威 12年 $1000-</div><div><br></div><div>格蘭菲迪 12年 $800-</div><div><br></div><div>百齡罈 金璽 $800-</div><div><br></div><div>高粱 $600-</div><div><br></div><div>鑑賞家 紅酒 $500-</div></h3>\n        <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"新樂園會館-菜單.html\" data-app-placeholder=\"Type Text\">美食饗宴</a>\n            <a class=\"btn btn-secondary\" href=\"index.html\" data-app-placeholder=\"Type Text\">新樂園主頁</a></div>\n    </div>\n</section>",
           "_cid": "rScbawYU3U",
           "_anchor": "content19-4t",
           "_protectedParams": [],
@@ -8417,10 +8417,11 @@
         }
       ]
     },
-    "page11.html": {
+    "sitemap.html": {
       "settings": {
-        "title": "站點地圖",
-        "order": 1
+        "title": "新樂園站點地圖",
+        "order": 1,
+        "meta_descr": "sitemap"
       },
       "components": [
         {
