@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "新樂園精品會館 New Paradise｜高雄酒店｜制服｜便服｜選妃｜KTV｜CLUB",
-    "currentPage": "2020年3月活動照-高雄新樂園精品會館.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -54,7 +54,7 @@
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "siteUrl": "https://paradise.nctu.me/",
-    "uniqCompNum": 188,
+    "uniqCompNum": 194,
     "versionPublish": "4.12.1",
     "screenshot": "screenshot.png",
     "canonical-url": "https://paradise.nctu.me",
@@ -564,7 +564,7 @@
             }
           },
           "_name": "menu2",
-          "_customHTML": "<section class=\"menu horizontal-menu\" group=\"Menu\" plugins=\"DropDown, amp-main,amp-sidebar\" global once=\"menu\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Logo Height\" inline name=\"logoHeight\" min=\"35\" max=\"120\" value=\"67\" step=\"1\" condition=\"showLogo\">\n        <input type=\"range\" title=\"Logo Width\" inline name=\"logoWidth\" min=\"35\" max=\"120\" value=\"70\" step=\"1\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\" checked>\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <select title=\"Sidebar Side\" name=\"sidebarSide\">\n            <option value=\"left\">Left</option>\n            <option value=\"right\" selected>Right</option>\n        </select>\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#4ea2e3\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n\n    <nav class=\"navbar navbar-dropdown navbar-expand-lg\" mbr-class=\"{'navbar-fixed-top':sticky}\">\n      <div class=\"brand\" mbr-if=\"showLogo || showBrand\">\n          <span mbr-if=\"showLogo\" class=\"brand-logo\">\n              <amp-img src=\"@PROJECT_PATH@/assets/images/logo-138x138.png\" layout=\"responsive\" width=\"70\" height=\"70\" alt=\"高雄酒店;新樂園會館\" class=\"mobirise-loader\" title=\"高雄新樂園精品會館酒店\">\n                  <div placeholder class=\"placeholder\"></div>\n                  <a href=\"index.html\"><img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/logo-138x138.png\" alt=\"高雄酒店;新樂園會館\" title=\"高雄新樂園精品會館酒店\"></a>\n              </amp-img>\n          </span>\n          <p mbr-text mbr-theme-style=\"display-2\" mbr-if=\"showBrand\" class=\"brand-name mbr-fonts-style mbr-bold\" data-app-selector=\".brand-name\">&nbsp;新樂園精品會館<br></p>\n      </div>\n      <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <button class=\"navbar-toggler mb-2\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarNavAltMarkup\" aria-expanded=\"false\" aria-label=\"Toggle navigation\" mbr-if=\"showItems||showButtons\">\n                <div class=\"hamburger\">\n                    <span></span>\n                    <span></span>\n                    <span></span>\n                    <span></span>\n                </div>\n            </button>\n            <ul mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-7\" mbr-if=\"showItems\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item dropdown\">\n                    <a class=\"nav-link link text-primary dropdown-toggle\" href=\"https://mobirise.co\" data-app-selector=\".nav-link,.dropdown-item\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" data-app-placeholder=\"Type Text\"><span class=\"mbri-star mbr-iconfont mbr-iconfont-btn\"></span>合作姊妹店</a>\n                    <div class=\"dropdown-menu\">\n                        <a class=\"text-primary dropdown-item\" href=\"https://www.facebook.com/kaiwo9111\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">凱渥精品會館</a>\n                        <a class=\"text-primary dropdown-item\" href=\"https://www.facebook.com/a072855000/\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">王牌精品會館</a><a class=\"text-primary dropdown-item\" href=\"https://www.facebook.com/a072855552/\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">紅樓夢男模會所</a>\n                    </div>\n                </li>\n                <li class=\"nav-item dropdown open\">\n                    <a class=\"nav-link link text-primary dropdown-toggle\" href=\"https://www.facebook.com/a072855000/\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>歷史活動照</a><div class=\"dropdown-menu\"><a class=\"text-primary dropdown-item\" href=\"2020年3月活動照-高雄新樂園精品會館.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2020年3月-粉系俏護士</a><a class=\"text-primary dropdown-item\" href=\"2020年2月活動照-高雄新樂園精品會館.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2020年2月-夜尋夢中人</a><a class=\"text-primary dropdown-item\" href=\"2020年1月活動照-高雄新樂園精品會館.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2020年1月-鼠錢數到爽</a></div>\n                </li><li class=\"nav-item dropdown\">\n                    <a class=\"nav-link link text-primary dropdown-toggle\" href=\"http://lin.ee/4U8Pf5d\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>消費/諮詢</a><div class=\"dropdown-menu\"><a class=\"text-primary dropdown-item\" href=\"新樂園會館-消費玩法.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">消費玩法</a><a class=\"text-primary dropdown-item\" href=\"新樂園會館-菜單.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">美食佳餚</a><a class=\"text-primary dropdown-item\" href=\"新樂園會館-酒水.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">美酒首選</a><a class=\"text-primary dropdown-item\" href=\"http://lin.ee/4U8Pf5d\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">聯繫客服</a></div>\n                </li>\n                <li class=\"nav-item\"><a class=\"nav-link link text-primary\" href=\"about.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        關於新樂園<br></a></li></ul>\n            \n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-7\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary-outline\" href=\"tel:+886968501623\" data-app-placeholder=\"Type Text\">立即來電</a></div>\n      </div>\n      <button class=\"navbar-toggler hide\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarNavAltMarkup\" aria-expanded=\"false\" aria-label=\"Toggle navigation\" mbr-if=\"showItems||showButtons\">\n          <div class=\"hamburger\">\n              <span></span>\n              <span></span>\n              <span></span>\n              <span></span>\n          </div>\n      </button>\n      <button on=\"tap:sidebar.toggle\" class=\"ampstart-btn hamburger\" mbr-class=\"{'sticky-but':sticky}\" mbr-if=\"showItems||showButtons\">\n        <span></span>\n        <span></span>\n        <span></span>\n        <span></span>\n    </button>\n    </nav>\n\n  <!-- AMP plug -->\n    <amp-sidebar id=\"sidebar\" layout=\"nodisplay\" side=\"{{sidebarSide}}\">\n        <div class=\"builder-sidebar\" id=\"builder-sidebar\">\n            <button on=\"tap:sidebar.close\" class=\"close-sidebar\">\n                <span></span>\n                <span></span>\n            </button>\n        </div>\n    </amp-sidebar>\n\n</section>",
+          "_customHTML": "<section class=\"menu horizontal-menu\" group=\"Menu\" plugins=\"DropDown, amp-main,amp-sidebar\" global=\"\" once=\"menu\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked=\"\">\n        <input type=\"range\" title=\"Logo Height\" inline=\"\" name=\"logoHeight\" min=\"35\" max=\"120\" value=\"67\" step=\"1\" condition=\"showLogo\">\n        <input type=\"range\" title=\"Logo Width\" inline=\"\" name=\"logoWidth\" min=\"35\" max=\"120\" value=\"70\" step=\"1\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\" checked=\"\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked=\"\">\n        <select title=\"Sidebar Side\" name=\"sidebarSide\">\n            <option value=\"left\">Left</option>\n            <option value=\"right\" selected=\"\">Right</option>\n        </select>\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#4ea2e3\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n\n    <nav class=\"navbar navbar-dropdown navbar-expand-lg\" mbr-class=\"{'navbar-fixed-top':sticky}\">\n      <div class=\"brand\" mbr-if=\"showLogo || showBrand\">\n          <span mbr-if=\"showLogo\" class=\"brand-logo\">\n              <amp-img src=\"@PROJECT_PATH@/assets/images/logo-138x138.png\" layout=\"responsive\" width=\"70\" height=\"70\" alt=\"高雄酒店;新樂園會館\" class=\"mobirise-loader\" title=\"高雄新樂園精品會館酒店\">\n                  <div placeholder=\"\" class=\"placeholder\"></div>\n                  <a href=\"index.html\"><img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/logo-138x138.png\" alt=\"高雄酒店;新樂園會館\" title=\"高雄新樂園精品會館酒店\"></a>\n              </amp-img>\n          </span>\n          <p mbr-text=\"\" mbr-theme-style=\"display-2\" mbr-if=\"showBrand\" class=\"brand-name mbr-fonts-style mbr-bold\" data-app-selector=\".brand-name\">&nbsp;新樂園精品會館<br></p>\n      </div>\n      <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <button class=\"navbar-toggler mb-2\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarNavAltMarkup\" aria-expanded=\"false\" aria-label=\"Toggle navigation\" mbr-if=\"showItems||showButtons\">\n                <div class=\"hamburger\">\n                    <span></span>\n                    <span></span>\n                    <span></span>\n                    <span></span>\n                </div>\n            </button>\n            <ul mbr-menu=\"\" class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-7\" mbr-if=\"showItems\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish &amp;&amp; !showBrand &amp;&amp; !showLogo}\"><li class=\"nav-item dropdown\">\n                    <a class=\"nav-link link text-primary dropdown-toggle\" href=\"https://mobirise.co\" data-app-selector=\".nav-link,.dropdown-item\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" data-app-placeholder=\"Type Text\"><span class=\"mbri-star mbr-iconfont mbr-iconfont-btn\"></span>合作姊妹店</a>\n                    <div class=\"dropdown-menu\">\n                        <a class=\"text-primary dropdown-item\" href=\"https://www.facebook.com/kaiwo9111\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">凱渥精品會館</a>\n                        <a class=\"text-primary dropdown-item\" href=\"https://www.facebook.com/a072855000/\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">王牌精品會館</a><a class=\"text-primary dropdown-item\" href=\"https://www.facebook.com/a072855552/\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">紅樓夢男模會所</a>\n                    </div>\n                </li>\n                <li class=\"nav-item dropdown\">\n                    <a class=\"nav-link link text-primary dropdown-toggle\" href=\"https://www.facebook.com/a072855000/\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>歷史活動照</a><div class=\"dropdown-menu\"><a class=\"text-primary dropdown-item\" href=\"2020年3月活動照-高雄新樂園精品會館.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2020年3月-粉系俏護士</a><a class=\"text-primary dropdown-item\" href=\"2020年2月活動照-高雄新樂園精品會館.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2020年2月-夜尋夢中人</a><a class=\"text-primary dropdown-item\" href=\"2020年1月活動照-高雄新樂園精品會館.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2020年1月-鼠錢數到爽</a></div>\n                </li><li class=\"nav-item dropdown\">\n                    <a class=\"nav-link link text-primary dropdown-toggle\" href=\"http://lin.ee/4U8Pf5d\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>消費/諮詢</a><div class=\"dropdown-menu\"><a class=\"text-primary dropdown-item\" href=\"新樂園會館-消費玩法.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">消費玩法</a><a class=\"text-primary dropdown-item\" href=\"新樂園會館-菜單.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">美食佳餚</a><a class=\"text-primary dropdown-item\" href=\"新樂園會館-酒水.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">美酒首選</a><a class=\"text-primary dropdown-item\" href=\"http://lin.ee/4U8Pf5d\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">聯繫客服</a></div>\n                </li>\n                <li class=\"nav-item\"><a class=\"nav-link link text-primary\" href=\"about.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        關於新樂園<br></a></li></ul>\n            \n            <div mbr-if=\"showButtons\" mbr-buttons=\"\" mbr-theme-style=\"display-7\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary-outline\" href=\"tel:+886968501623\" data-app-placeholder=\"Type Text\">立即來電</a></div>\n      </div>\n      <button class=\"navbar-toggler hide\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarNavAltMarkup\" aria-expanded=\"false\" aria-label=\"Toggle navigation\" mbr-if=\"showItems||showButtons\">\n          <div class=\"hamburger\">\n              <span></span>\n              <span></span>\n              <span></span>\n              <span></span>\n          </div>\n      </button>\n      <button on=\"tap:sidebar.toggle\" class=\"ampstart-btn hamburger\" mbr-class=\"{'sticky-but':sticky}\" mbr-if=\"showItems||showButtons\">\n        <span></span>\n        <span></span>\n        <span></span>\n        <span></span>\n    </button>\n    </nav>\n\n  <!-- AMP plug -->\n    <amp-sidebar id=\"sidebar\" layout=\"nodisplay\" side=\"{{sidebarSide}}\">\n        <div class=\"builder-sidebar\" id=\"builder-sidebar\">\n            <button on=\"tap:sidebar.close\" class=\"close-sidebar\">\n                <span></span>\n                <span></span>\n            </button>\n        </div>\n    </amp-sidebar>\n\n</section>",
           "_anchor": "menu2-28",
           "_isUserblock": true,
           "_sourceTheme": "mobirise-amp",
@@ -701,11 +701,11 @@
               "text-align": "center"
             },
             ".mbr-section-subtitle": {
-              "color": "#f48db0"
+              "color": "#df8b50"
             }
           },
           "_name": "slider2",
-          "_customHTML": "<section class=\"slider2 slider\" group=\"Carousels &amp; Sliders\" plugins=\"amp-main,amp-carousel,amp-image-lightbox\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        \n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"show Buttons\" name=\"showButtons\" checked=\"\">\n        \n        <input type=\"range\" inline=\"\" title=\"Icons Size\" name=\"iconsSize\" min=\"1\" max=\"3\" step=\"0.1\" value=\"2.1\">\n        \n        <select title=\"Images\" name=\"imagesAmount\">\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected=\"\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n\n        <input type=\"color\" title=\"Image Overlay Color\" name=\"imgOverlayColor\" value=\"#f48db0\">\n        <input type=\"range\" inline=\"\" title=\"Image Overlay Opacity\" name=\"imgOverlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\">\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background6.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#232323\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <h3 class=\"mbr-fonts-style mbr-section-title mbr-light align-center mbr-white\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\"><b>新樂園最新活動</b></h3>\n        <h4 class=\"mbr-fonts-style mbr-section-subtitle mbr-light align-center mbr-white\" mbr-if=\"showSubtitle\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-section-subtitle\">3月份活動 - 粉系俏護士 <br>點擊圖片前往觀看最新公關宣傳照</h4>\n        <div class=\"slider-box\"><amp-carousel class=\"carousel\" height=\"300\" layout=\"fixed-height\" type=\"carousel\"><div class=\"carousel-img mbr-col-sm-12\">\n                    <amp-img class=\"mobirise-loader\" src=\"@PROJECT_PATH@/assets/images/miss03-1687x949.jpg\" alt=\"高雄; 酒店; 秀; 新樂園; 精品; 商務; 會館; 小姐; 活動; 制服; 禮服; 便服; 王牌; 凱渥; 金磚; 羅馬; 168; 迪士尼; 壹殿媛; 舞飛揚; 太子; 皇家; 貴賓; 321; 六星; 成人; 正妹; 女神; 屏東; 台南; 便宜; 好玩; 夜生活; 香香; 9P; 南台灣; 夜店; 舞廳; 金巴黎; 大帝國; 美麗華; 香格; 凱薩; 麗緻; 富爺; 威尼斯; 喝酒; 娛樂; 表演; 喇叭; \" width=\"533.2982086406744\" layout=\"responsive\" height=\"300\" on=\"tap:lightbox1\" role=\"button\" tabindex=\"0\" title=\"新樂園最新活動\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <a href=\"2020年3月活動照-高雄新樂園精品會館.html\"><img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/miss03-1687x949.jpg\" alt=\"高雄; 酒店; 秀; 新樂園; 精品; 商務; 會館; 小姐; 活動; 制服; 禮服; 便服; 王牌; 凱渥; 金磚; 羅馬; 168; 迪士尼; 壹殿媛; 舞飛揚; 太子; 皇家; 貴賓; 321; 六星; 成人; 正妹; 女神; 屏東; 台南; 便宜; 好玩; 夜生活; 香香; 9P; 南台灣; 夜店; 舞廳; 金巴黎; 大帝國; 美麗華; 香格; 凱薩; 麗緻; 富爺; 威尼斯; 喝酒; 娛樂; 表演; 喇叭; \" title=\"新樂園最新活動\"></a>\n                    </amp-img>\n                    <div class=\"icon-wrap\" on=\"tap:lightbox1\" role=\"button\" tabindex=\"0\">\n                        <a href=\"2020年3月活動照-高雄新樂園精品會館.html\"><span mbr-icon=\"\" class=\"amp-iconfont mbri-search\"></span></a>\n                    </div>\n                </div><div class=\"carousel-img mbr-col-sm-12\">\n                    <amp-img class=\"mobirise-loader\" src=\"@PROJECT_PATH@/assets/images/miss02-1-900x472.jpg\" alt=\"高雄;酒店;秀;新樂園;精品;商務;會館;小姐;活動;制服;禮服;便服;王牌;凱渥;消費;價格;推薦;敢玩;金磚;羅馬;168;迪士尼;壹殿媛;舞飛揚;太子;LOVE76;皇家;貴賓;321;六星;成人;正妹;女神;屏東;台南;便宜;好玩;夜生活;香香;9P;南台灣;夜店;舞廳;金巴黎;大帝國;美麗華;香格;凱薩;麗緻;富爺;威尼斯;喝酒;娛樂;表演;喇叭;\" width=\"572.0338983050848\" height=\"300\" layout=\"responsive\" on=\"tap:lightbox1\" role=\"button\" tabindex=\"0\" title=\"新樂園2月小姐宣傳\">\n                            <div placeholder=\"\" class=\"placeholder\"></div>\n                            <a href=\"2020年2月活動照-高雄新樂園精品會館.html\"><img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/miss02-1-900x472.jpg\" alt=\"高雄;酒店;秀;新樂園;精品;商務;會館;小姐;活動;制服;禮服;便服;王牌;凱渥;消費;價格;推薦;敢玩;金磚;羅馬;168;迪士尼;壹殿媛;舞飛揚;太子;LOVE76;皇家;貴賓;321;六星;成人;正妹;女神;屏東;台南;便宜;好玩;夜生活;香香;9P;南台灣;夜店;舞廳;金巴黎;大帝國;美麗華;香格;凱薩;麗緻;富爺;威尼斯;喝酒;娛樂;表演;喇叭;\" title=\"新樂園2月小姐宣傳\"></a>\n                    </amp-img>\n                    <div class=\"icon-wrap\" on=\"tap:lightbox1\" role=\"button\" tabindex=\"0\">\n                        <a href=\"2020年2月活動照-高雄新樂園精品會館.html\"><span mbr-icon=\"\" class=\"amp-iconfont mbri-search\"></span></a>\n                    </div>\n                </div><div class=\"carousel-img mbr-col-sm-12\">\n                    <amp-img class=\"mobirise-loader\" src=\"@PROJECT_PATH@/assets/images/miss01-1-637x907.jpg\" alt=\"高雄;酒店;秀;新樂園;精品;商務;會館;小姐;活動;制服;禮服;便服;王牌;凱渥;消費;價格;推薦;敢玩;金磚;羅馬;168;迪士尼;壹殿媛;舞飛揚;太子;LOVE76;皇家;貴賓;321;六星;成人;正妹;女神;屏東;台南;便宜;好玩;夜生活;香香;9P;南台灣;夜店;舞廳;金巴黎;大帝國;美麗華;香格;凱薩;麗緻;富爺;威尼斯;喝酒;娛樂;表演;喇叭;\" width=\"210.69459757442118\" height=\"300\" layout=\"responsive\" on=\"tap:lightbox1\" role=\"button\" tabindex=\"0\" title=\"新樂園一月小姐宣傳\">\n                            <div placeholder=\"\" class=\"placeholder\"></div>\n                            <a href=\"2020年1月活動照-高雄新樂園精品會館.html\"><img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/miss01-1-637x907.jpg\" alt=\"高雄;酒店;秀;新樂園;精品;商務;會館;小姐;活動;制服;禮服;便服;王牌;凱渥;消費;價格;推薦;敢玩;金磚;羅馬;168;迪士尼;壹殿媛;舞飛揚;太子;LOVE76;皇家;貴賓;321;六星;成人;正妹;女神;屏東;台南;便宜;好玩;夜生活;香香;9P;南台灣;夜店;舞廳;金巴黎;大帝國;美麗華;香格;凱薩;麗緻;富爺;威尼斯;喝酒;娛樂;表演;喇叭;\" title=\"新樂園一月小姐宣傳\"></a>\n                    </amp-img>\n                    <div class=\"icon-wrap\" on=\"tap:lightbox1\" role=\"button\" tabindex=\"0\">\n                        <a href=\"2020年1月活動照-高雄新樂園精品會館.html\"><span mbr-icon=\"\" class=\"amp-iconfont mbri-search\"></span></a>\n                    </div>\n                </div></amp-carousel>\n            \n        </div>\n        <p class=\"mbr-text align-center mbr-fonts-style mbr-white\" mbr-if=\"showText\" mbr-theme-style=\"display-7\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae cupiditate rerum ipsum tempora vero. Fugit facilis possimus assumenda ipsa, sapiente eius sunt fuga saepe nemo. Necessitatibus consequuntur, recusandae consequatur suscipit.</p>\n        <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons=\"\" mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"新樂園會館-消費玩法.html\" data-app-placeholder=\"Type Text\">消費介紹</a></div>\n    </div>\n    <amp-image-lightbox id=\"lightbox1\" layout=\"nodisplay\">\n        <a class=\"control\" data-close-button-aria-label=\"Close\">\n            <span class=\"close\"></span>\n        </a>\n    </amp-image-lightbox>\n</section>",
+          "_customHTML": "<section class=\"slider2 slider\" group=\"Carousels &amp; Sliders\" plugins=\"amp-main,amp-carousel,amp-image-lightbox\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        \n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"show Buttons\" name=\"showButtons\" checked=\"\">\n        \n        <input type=\"range\" inline=\"\" title=\"Icons Size\" name=\"iconsSize\" min=\"1\" max=\"3\" step=\"0.1\" value=\"2.1\">\n        \n        <select title=\"Images\" name=\"imagesAmount\">\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected=\"\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n\n        <input type=\"color\" title=\"Image Overlay Color\" name=\"imgOverlayColor\" value=\"#f48db0\">\n        <input type=\"range\" inline=\"\" title=\"Image Overlay Opacity\" name=\"imgOverlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\">\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background6.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#232323\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <h3 class=\"mbr-fonts-style mbr-section-title mbr-light align-center mbr-white\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\"><b>新樂園最新活動</b></h3>\n        <h4 class=\"mbr-fonts-style mbr-section-subtitle mbr-light align-center mbr-white\" mbr-if=\"showSubtitle\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-section-subtitle\">4月份活動 - 盛夏比基尼&nbsp;<br><b><a href=\"2020年4月活動照-高雄新樂園精品會館.html\">點擊圖片</a></b>前往觀看最新公關宣傳照</h4>\n        <div class=\"slider-box\"><amp-carousel class=\"carousel\" height=\"300\" layout=\"fixed-height\" type=\"carousel\"><div class=\"carousel-img mbr-col-sm-12\">\n                    <amp-img class=\"mobirise-loader\" src=\"@PROJECT_PATH@/assets/images/miss202004-1-900x900.jpg\" alt=\"高雄; 酒店; 秀; 新樂園; 精品; 商務; 會館; 小姐; 活動; 制服; 禮服; 便服; 王牌; 凱渥; 金磚; 羅馬; 168; 迪士尼; 壹殿媛; 舞飛揚; 太子; 皇家; 貴賓; 321; 六星; 成人; 正妹; 女神; 屏東; 台南; 便宜; 好玩; 夜生活; 香香; 9P; 南台灣; 夜店; 舞廳; 金巴黎; 大帝國; 美麗華; 香格; 凱薩; 麗緻; 富爺; 威尼斯; 喝酒; 娛樂; 表演; 喇叭; \" width=\"300\" layout=\"responsive\" height=\"300\" on=\"tap:lightbox1\" role=\"button\" tabindex=\"0\" title=\"新樂園最新活動\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <a href=\"2020年4月活動照-高雄新樂園精品會館.html\"><img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/miss202004-1-900x900.jpg\" alt=\"高雄; 酒店; 秀; 新樂園; 精品; 商務; 會館; 小姐; 活動; 制服; 禮服; 便服; 王牌; 凱渥; 金磚; 羅馬; 168; 迪士尼; 壹殿媛; 舞飛揚; 太子; 皇家; 貴賓; 321; 六星; 成人; 正妹; 女神; 屏東; 台南; 便宜; 好玩; 夜生活; 香香; 9P; 南台灣; 夜店; 舞廳; 金巴黎; 大帝國; 美麗華; 香格; 凱薩; 麗緻; 富爺; 威尼斯; 喝酒; 娛樂; 表演; 喇叭; \" title=\"新樂園最新活動\"></a>\n                    </amp-img>\n                    <div class=\"icon-wrap\" on=\"tap:lightbox1\" role=\"button\" tabindex=\"0\">\n                        <a href=\"2020年3月活動照-高雄新樂園精品會館.html\"><span mbr-icon=\"\" class=\"amp-iconfont mbri-search\"></span></a>\n                    </div>\n                </div><div class=\"carousel-img mbr-col-sm-12\">\n                    <amp-img class=\"mobirise-loader\" src=\"@PROJECT_PATH@/assets/images/miss03-1-900x506.jpg\" alt=\"高雄;酒店;秀;新樂園;精品;商務;會館;小姐;活動;制服;禮服;便服;王牌;凱渥;消費;價格;推薦;敢玩;金磚;羅馬;168;迪士尼;壹殿媛;舞飛揚;太子;LOVE76;皇家;貴賓;321;六星;成人;正妹;女神;屏東;台南;便宜;好玩;夜生活;香香;9P;南台灣;夜店;舞廳;金巴黎;大帝國;美麗華;香格;凱薩;麗緻;富爺;威尼斯;喝酒;娛樂;表演;喇叭;\" width=\"533.596837944664\" height=\"300\" layout=\"responsive\" on=\"tap:lightbox1\" role=\"button\" tabindex=\"0\" title=\"新樂園3月小姐宣傳\">\n                            <div placeholder=\"\" class=\"placeholder\"></div>\n                            <a href=\"2020年3月活動照-高雄新樂園精品會館.html\"><img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/miss03-1-900x506.jpg\" alt=\"高雄;酒店;秀;新樂園;精品;商務;會館;小姐;活動;制服;禮服;便服;王牌;凱渥;消費;價格;推薦;敢玩;金磚;羅馬;168;迪士尼;壹殿媛;舞飛揚;太子;LOVE76;皇家;貴賓;321;六星;成人;正妹;女神;屏東;台南;便宜;好玩;夜生活;香香;9P;南台灣;夜店;舞廳;金巴黎;大帝國;美麗華;香格;凱薩;麗緻;富爺;威尼斯;喝酒;娛樂;表演;喇叭;\" title=\"新樂園3月小姐宣傳\"></a>\n                    </amp-img>\n                    <div class=\"icon-wrap\" on=\"tap:lightbox1\" role=\"button\" tabindex=\"0\">\n                        <a href=\"2020年2月活動照-高雄新樂園精品會館.html\"><span mbr-icon=\"\" class=\"amp-iconfont mbri-search\"></span></a>\n                    </div>\n                </div><div class=\"carousel-img mbr-col-sm-12\">\n                    <amp-img class=\"mobirise-loader\" src=\"@PROJECT_PATH@/assets/images/miss02-1-900x472.jpg\" alt=\"高雄;酒店;秀;新樂園;精品;商務;會館;小姐;活動;制服;禮服;便服;王牌;凱渥;消費;價格;推薦;敢玩;金磚;羅馬;168;迪士尼;壹殿媛;舞飛揚;太子;LOVE76;皇家;貴賓;321;六星;成人;正妹;女神;屏東;台南;便宜;好玩;夜生活;香香;9P;南台灣;夜店;舞廳;金巴黎;大帝國;美麗華;香格;凱薩;麗緻;富爺;威尼斯;喝酒;娛樂;表演;喇叭;\" width=\"572.0338983050848\" height=\"300\" layout=\"responsive\" on=\"tap:lightbox1\" role=\"button\" tabindex=\"0\" title=\"新樂園2月小姐宣傳\">\n                            <div placeholder=\"\" class=\"placeholder\"></div>\n                            <a href=\"2020年2月活動照-高雄新樂園精品會館.html\"><img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/miss02-1-900x472.jpg\" alt=\"高雄;酒店;秀;新樂園;精品;商務;會館;小姐;活動;制服;禮服;便服;王牌;凱渥;消費;價格;推薦;敢玩;金磚;羅馬;168;迪士尼;壹殿媛;舞飛揚;太子;LOVE76;皇家;貴賓;321;六星;成人;正妹;女神;屏東;台南;便宜;好玩;夜生活;香香;9P;南台灣;夜店;舞廳;金巴黎;大帝國;美麗華;香格;凱薩;麗緻;富爺;威尼斯;喝酒;娛樂;表演;喇叭;\" title=\"新樂園2月小姐宣傳\"></a>\n                    </amp-img>\n                    <div class=\"icon-wrap\" on=\"tap:lightbox1\" role=\"button\" tabindex=\"0\">\n                        <a href=\"2020年1月活動照-高雄新樂園精品會館.html\"><span mbr-icon=\"\" class=\"amp-iconfont mbri-search\"></span></a>\n                    </div>\n                </div></amp-carousel>\n            \n        </div>\n        <p class=\"mbr-text align-center mbr-fonts-style mbr-white\" mbr-if=\"showText\" mbr-theme-style=\"display-7\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae cupiditate rerum ipsum tempora vero. Fugit facilis possimus assumenda ipsa, sapiente eius sunt fuga saepe nemo. Necessitatibus consequuntur, recusandae consequatur suscipit.</p>\n        <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons=\"\" mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"新樂園會館-消費玩法.html\" data-app-placeholder=\"Type Text\">消費介紹</a></div>\n    </div>\n    <amp-image-lightbox id=\"lightbox1\" layout=\"nodisplay\">\n        <a class=\"control\" data-close-button-aria-label=\"Close\">\n            <span class=\"close\"></span>\n        </a>\n    </amp-image-lightbox>\n</section>",
           "_cid": "rS0NBdqvvg",
           "_anchor": "slider2-33",
           "_protectedParams": [],
@@ -2044,7 +2044,7 @@
     "2020年2月活動照-高雄新樂園精品會館.html": {
       "settings": {
         "title": "高雄酒店-新樂園精品會館：2020年2月活動宣傳照，制服﹑便服﹑美女選妃﹑私台玩法｜Taiwan to New Paradise",
-        "order": 10,
+        "order": 11,
         "meta_descr": "2020年2月活動：夜尋夢中人｜公關活動照 - 高雄酒店首選新樂園會館，制便私檯選妃免鎖檯，優質高CP是你夜間娛樂喝酒的最佳抉擇.. - 新樂園精品會館|Taiwan to New Paradise|",
         "meta_image": "@PROJECT_PATH@/assets/images/miss0237_2048x1251-2000x1222.jpg"
       },
@@ -2925,7 +2925,7 @@
     "2020年1月活動照-高雄新樂園精品會館.html": {
       "settings": {
         "title": "高雄酒店-新樂園精品會館：2020年1月新春活動宣傳照，制服﹑便服﹑美女選妃﹑私台玩法｜Taiwan to New Paradise",
-        "order": 11,
+        "order": 12,
         "meta_descr": "2020年1月活動：鼠於您的新樂園，祝所有貴賓＂鼠錢鼠到爽＂｜公關活動照 - 高雄酒店首選新樂園會館，制便私檯選妃免鎖檯，優質高CP是你夜間娛樂喝酒的最佳抉擇.. - 新樂園精品會館|Taiwan to New Paradise|",
         "meta_image": "@PROJECT_PATH@/assets/images/miss0101_637x907-1-637x907.jpg"
       },
@@ -8760,6 +8760,888 @@
           "_global": true,
           "_once": "footer",
           "_params": {}
+        }
+      ]
+    },
+    "2020年4月活動照-高雄新樂園精品會館.html": {
+      "settings": {
+        "title": "高雄酒店-新樂園精品會館：2020年4月活動宣傳照，制服﹑便服﹑美女選妃﹑私台玩法｜Taiwan to New Paradise",
+        "order": 10,
+        "meta_descr": "2020年4月活動：盛夏比基尼｜公關活動照 - 高雄酒店首選新樂園會館，制便私檯選妃免鎖檯，優質高CP是你夜間娛樂喝酒的最佳抉擇.. - 新樂園精品會館|Taiwan to New Paradise|",
+        "meta_image": "@PROJECT_PATH@/assets/images/miss202004%20(1)-2000x2000.jpg"
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-title": {
+              "padding-bottom": "1rem"
+            },
+            ".mbr-section-btn": {
+              "padding-top": "1.5rem"
+            }
+          },
+          "_name": "content19",
+          "_customHTML": "<section class=\"mbr-section content19\" group=\"Article\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/home-1920x1280.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#000000\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-container\">\n        <h2 mbr-if=\"showTitle\" class=\"mbr-title align-center mbr-fonts-style mbr-bold mbr-white\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-title\">2020年4月活動</h2>\n        <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style mbr-white\" mbr-theme-style=\"display-5\"><i>盛夏比基尼-&nbsp;</i><i>公關宣傳照</i></h3>\n        <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\"><a class=\"btn btn-primary-outline\" href=\"https://line.me/ti/p/fIHVC10feE\" data-app-placeholder=\"Type Text\">洽詢活動內容</a>\n            <a class=\"btn btn-white-outline\" href=\"index.html\" data-app-placeholder=\"Type Text\">前往新樂園首頁</a></div>\n    </div>\n</section>",
+          "_cid": "rVAee5RyR2",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content19-58"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "background-color": "@bgColor",
+            "& when not (@fullWidth)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "width": "~\"@{videoSize}%\"",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "amp-img": {
+              "text-align": "center"
+            },
+            ".mbr-text": {
+              "margin": "0",
+              "padding": ".5rem 0",
+              "& when (@fullWidth)": {
+                "padding": ".5rem 15px"
+              },
+              "color": "#df8b50"
+            },
+            "@media (max-width: 767px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image1",
+          "_customHTML": "<section class=\"image1\" group=\"Images & Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showText\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"showText==true\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"image-block\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/miss202004-1-2048x2048.jpg\" layout=\"responsive\" width=\"1349\" height=\"1349\" alt=\"新樂園精品會館\" class=\"mobirise-loader\" title=\"2020年4月活動：盛夏比基尼\">\n                <div placeholder class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/miss202004-1-2048x2048.jpg\" alt=\"新樂園精品會館\" title=\"2020年4月活動：盛夏比基尼\">\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">\n                    3/9~3/15 活動宣傳照\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rVAee71dCO",
+          "_anchor": "image1-59",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)",
+              "& when (@overlay)": {
+                ".mbr-overlay": {
+                  "background": "@overlayColor",
+                  "opacity": "@overlayOpacity"
+                }
+              }
+            },
+            "& when (@masonryStyle)": {
+              "@media (min-width: 992px)": {
+                ".mbr-row": {
+                  "flex-direction": "column",
+                  "height": "(@masonryHeight * 1rem)",
+                  "align-content": "center",
+                  "justify-content": "flex-start",
+                  ".item": {
+                    "height": "auto",
+                    "flex": "none",
+                    "max-width": "100%",
+                    "& when (@imageWidth = 2)": {
+                      "width": "50.00%"
+                    },
+                    "& when (@imageWidth = 3)": {
+                      "width": "33.33%"
+                    },
+                    "& when (@imageWidth = 4)": {
+                      "width": "25.00%"
+                    }
+                  }
+                }
+              }
+            },
+            "@media (min-width: 992px)": {
+              "& when not (@noPaddings)": {
+                ".container-fluid": {
+                  "padding-left": "(@spacing * 1rem)",
+                  "padding-right": "(@spacing * 1rem)"
+                },
+                ".item": {
+                  "padding": "(@spacing * 1rem)"
+                },
+                ".item-img": {
+                  "padding-bottom": "0"
+                }
+              },
+              "& when (@noPaddings)": {
+                ".mbr-row": {
+                  "margin": "0",
+                  "padding": "0"
+                },
+                ".container-fluid, .container": {
+                  "padding": "0"
+                }
+              }
+            },
+            ".title": {
+              "& when (@spacing <= 2)": {
+                "padding-bottom": "((2 - @spacing) * 1rem)"
+              },
+              "& when (@spacing > 2)": {
+                "margin-bottom": "((2 - @spacing) * 1rem)"
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".item": {
+                "margin-bottom": "2rem"
+              }
+            },
+            ".item-sign": {
+              "margin": "0"
+            },
+            ".item-wrapper": {
+              "width": "100%",
+              "height": "100%",
+              "position": "relative"
+            },
+            "& when (@showText)": {
+              "amp-img": {
+                "&:after": {
+                  "content": "\"\"",
+                  "display": "block",
+                  "background-color": "rgba(red(@bgColor), green(@bgColor), blue(@bgColor), @bgOpacity)",
+                  "position": "absolute",
+                  "left": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "top": "100%",
+                  "transition": "0.2s ease-in",
+                  "z-index": "1",
+                  "pointer-events": "none"
+                },
+                ".item-sign": {
+                  "position": "absolute",
+                  "left": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "padding": "10px",
+                  "z-index": "2",
+                  "transition": "0.2s ease-in",
+                  "background-color": "rgba(red(@bgColor), green(@bgColor), blue(@bgColor), @bgOpacity)",
+                  "color": "#ffffff"
+                }
+              },
+              "amp-img:hover": {
+                "&:after": {
+                  "top": "0%"
+                },
+                ".item-sign": {
+                  "background-color": "rgba(red(@bgColor), green(@bgColor), blue(@bgColor), 0)"
+                }
+              }
+            },
+            "& when (@squareStyle)": {
+              "amp-img, img": {
+                "object-fit": "cover",
+                "height": "300px",
+                "@media (min-width: 991px) and (max-width: 1199px)": {
+                  "height": "275px"
+                }
+              }
+            },
+            ".item-btn, .item-box-btn": {
+              "margin": "0"
+            },
+            ".item-box": {
+              "justify-content": "center",
+              "position": "relative",
+              "width": "100%",
+              "background": "#efefef",
+              "overflow": "auto",
+              "@media (min-width: 992px)": {
+                "max-width": "1000px"
+              },
+              "@media (max-width: 991px)": {
+                "width": "90%",
+                "margin": "1rem"
+              }
+            },
+            ".item-box-img": {
+              "@media (min-width: 992px)": {
+                "padding": "2rem"
+              },
+              "@media (max-width: 991px)": {
+                "padding": "1rem"
+              },
+              "amp-img": {
+                "height": "auto"
+              }
+            },
+            ".item-box-wrapper": {
+              "background-color": "#efefef",
+              "@media (min-width: 992px)": {
+                "padding": "2rem"
+              },
+              "@media (max-width: 991px)": {
+                "padding": "1rem"
+              }
+            },
+            "& when (@customStyles)": {
+              "& when (@boxShadow)": {
+                ".item-wrapper": {
+                  "box-shadow": "0px 0px (@shadowSize * 1px) 0px rgba(red(@shadowColor), green(@shadowColor), blue(@shadowColor), @shadowOpacity)"
+                }
+              },
+              "& when (@hoverOverlay)": {
+                "amp-img": {
+                  "&:after": {
+                    "content": "\"\"",
+                    "pointer-events": "none",
+                    "transition": "0.4s",
+                    "position": "absolute",
+                    "top": "0",
+                    "left": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "opacity": "0",
+                    "background-color": "rgba(red(@hoverColor), green(@hoverColor), blue(@hoverColor), @hoverOpacity)"
+                  },
+                  "&:hover": {
+                    "&:after": {
+                      "opacity": "1"
+                    }
+                  }
+                }
+              },
+              "& when (@hoverIcon)": {
+                ".icon-wrap": {
+                  "position": "absolute",
+                  "left": "0",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "margin": "auto",
+                  "opacity": "0",
+                  "transition": "0.4s",
+                  "height": "(@iconSize * 1rem)",
+                  "width": "(@iconSize * 1rem)",
+                  "z-index": "2",
+                  "span": {
+                    "color": "@iconColor",
+                    "font-size": "(@iconSize * 1rem)"
+                  }
+                },
+                "amp-img:hover .icon-wrap": {
+                  "opacity": "1"
+                }
+              },
+              "& when (@useBorderRadius)": {
+                ".item-wrapper": {
+                  "z-index": "12",
+                  "border-radius": "(@borderRadius * 1px)",
+                  "overflow": "hidden"
+                }
+              }
+            },
+            "& when not (@customStyles)": {
+              ".icon-wrap": {
+                "display": "none"
+              }
+            },
+            ".item": {
+              "cursor": "pointer"
+            },
+            "& when (@noPaddings)": {
+              ".item": {
+                "margin": "0",
+                "padding": "0"
+              }
+            },
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#f48db0"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#4addff"
+            }
+          },
+          "_name": "gallery2",
+          "_customHTML": "<section class=\"amp-lightbox-gallery\" group=\"Shop\" plugins=\"amp-main, amp-lightbox-gallery\">\n\t<mbr-parameters>\n\t\t<!-- Block parameters controls (Blue \"Gear\" panel) -->\n\t\t<header>Size</header>\n\t\t<input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n\t\t<input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n\t\t<input type=\"checkbox\" name=\"fullWidth\" title=\"Full Width\" checked>\n\t\t<input type=\"checkbox\" name=\"masonryStyle\" title=\"Masonry Style\" condition=\"!squareStyle\">\n\t\t<input type=\"checkbox\" name=\"squareStyle\" title=\"Square Style\" condition=\"!masonryStyle\">\n\t\t<input type=\"range\" min=\"50\" max=\"1000\" step=\"10\" value=\"50\" name=\"masonryHeight\" title=\"Height\" condition=\"masonryStyle\">\n\n\t\t<header>Show Hide</header>\n\t\t<input type=\"checkbox\" name=\"showTitle\" title=\"Title\" checked>\n\t\t<input type=\"checkbox\" name=\"showSubtitle\" title=\"Subtitle\" checked>\n\n\t\t<header>Image</header>\n\t\t<input type=\"range\" name=\"imageWidth\" title=\"Image Width\" min=\"2\" max=\"4\" step=\"1\" value=\"4\">\n\t\t<input type=\"checkbox\" name=\"showText\" title=\"Show Text\" checked>\n\t\t<input type=\"color\" name=\"bgColor\" title=\"BG Color\" value=\"#df8b50\" condition=\"showText\">\n\t\t<input type=\"range\" name=\"bgOpacity\" title=\"Opacity\" value=\"0.5\" min=\"0\" max=\"1\" step=\"0.1\" condition=\"showText\">\n\n\t\t<header condition=\"customStyle\">Custom Styles</header>\n\t\t<input type=\"checkbox\" name=\"noPaddings\" title=\"Without Padding\" checked>\n\t\t<input type=\"checkbox\" name=\"customStyles\" title=\"Custom Style\" checked>\n\n\t\t<header condition=\"customStyles\">Paddings</header>\n\t\t<input type=\"range\" title=\"Spacing\" name=\"spacing\" min=\"0\" max=\"5\" step=\"0.5\" value=\"3.5\" condition=\"customStyles && !noPaddings\">\n\n\t\t<header condition=\"customStyles\">Overlay</header>\n\t\t<input type=\"checkbox\" name=\"hoverOverlay\" title=\"Enable\" condition=\"customStyles\" checked>\n\t\t<input type=\"color\" name=\"hoverColor\" value=\"#ffd97a\" title=\"Color\" condition=\"customStyles && hoverOverlay\">\n\t\t<input type=\"range\" name=\"hoverOpacity\" value=\"0.4\" min=\"0\" max=\"1\" step=\"0.1\" title=\"Opacity\" condition=\"customStyles && hoverOverlay\">\n\t\t<input type=\"checkbox\" name=\"hoverIcon\" title=\"Show Icon\" condition=\"customStyles\" checked>\n\t\t<input type=\"color\" name=\"iconColor\" value=\"#f48db0\" title=\"Icon Color\" condition=\"customStyles && hoverIcon\">\n\t\t<input type=\"range\" name=\"iconSize\" title=\"Icon Size\" min=\"1\" max=\"3\" step=\"0.5\" value=\"2\" condition=\"customStyles && hoverIcon\">\n\n\t\t<header condition=\"customStyles\">Box Shadow</header>\n\t\t<input type=\"checkbox\" name=\"boxShadow\" title=\"Shadow\" condition=\"customStyles\" checked>\n\t\t<input type=\"range\" name=\"shadowSize\" title=\"Size\" min=\"0\" max=\"100\" step=\"1\" value=\"100\" condition=\"customStyles && boxShadow\">\n\t\t<input type=\"range\" name=\"shadowOpacity\" title=\"Opacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"1\" condition=\"customStyles && boxShadow\">\n\t\t<input type=\"color\" name=\"shadowColor\" title=\"Color\" condition=\"customStyles && boxShadow\">\n\n\t\t<header condition=\"customStyles\">Border Radius</header>\n\t\t<input type=\"checkbox\" name=\"useBorderRadius\" title=\"Round Border\" condition=\"customStyles\" checked>\n\t\t<input type=\"range\" name=\"borderRadius\" title=\"Size\" min=\"0\" max=\"50\" step=\"1\" value=\"20\" condition=\"customStyles && useBorderRadius\">\n\t\t<header>Background</header>\n\t\t<fieldset type=\"background\" name=\"bg\" required>\n\t\t\t<input type=\"image\" title=\"Background Image\" value=\"../_images/background1.jpg\">\n\t\t\t<input type=\"color\" title=\"Background Color\" value=\"#232323\" selected>\n\t\t</fieldset>\n\t\t<input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n\t\t<input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#efefef\" condition=\"overlay && bg.type == 'image'\">\n\t\t<input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type == 'image'\">\n\t</mbr-parameters>\n\t<div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\"></div>\n\t<div mbr-class=\"{'container': !fullWidth,\n\t\t\t\t\t 'container-fluid': fullWidth}\">\n\t\t<div class=\"title mbr-pb-4\" mbr-if=\"showTitle || showSubtitle\">\n\t\t\t<h3 class=\"mbr-section-title mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><b>4月13日至4月19日 盛夏比基尼活動宣傳照</b></h3>\n\t\t\t<h4 class=\"mbr-section-subtitle mbr-fonts-style mbr-pt-2\" mbr-theme-style=\"display-7\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">讓我們用熱情的服務，為你趕走所有的不愉快跟不如意\n<div>提醒你：常洗手保持手部潔淨，密閉多人空間戴口罩\n</div><div>新樂園關心各位來賓</div><br><div><br></div></h4>\n\t\t</div>\n\t\t<div class=\"mbr-row\">\n            <div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-2-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-2-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-3-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-3-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-4-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-4-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-5-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-5-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-6-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-6-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-7-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-7-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-8-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-8-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-9-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-9-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-10-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-10-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-11-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-11-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-12-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-12-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-13-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-13-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-14-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-14-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-15-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-15-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-16-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-16-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-17-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-17-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-18-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-18-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-19-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-19-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-20-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-20-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-21-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-21-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-22-1120x1462.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-22-1120x1462.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-23-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-23-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-24-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-24-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-25-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-25-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-26-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-26-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-27-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-27-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-28-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-28-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-29-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-29-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-30-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-30-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-31-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-31-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-32-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-32-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/miss202004-33-1125x1688.jpg\" layout=\"responsive\" width=\"337.2334123222749\" height=\"506\" alt=\"image\" class=\"placeholder-loader lb-image\" title=\"4月活動|盛夏比基尼\">\n                        <div placeholder class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon class=\"amp-iconfont fa-heart fa\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".item-sign\">新樂園精品會館</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/miss202004-33-1125x1688.jpg\" alt=\"新樂園精品會館\" title=\"4月活動|盛夏比基尼\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t</div>\n\t</div>\n</section>",
+          "_cid": "rVAee8vVcO",
+          "_anchor": "gallery2-5a",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@flexDirection)": {
+              ".mbr-row": {
+                "-webkit-flex-direction": "row-reverse",
+                "flex-direction": "row-reverse"
+              }
+            },
+            ".btn-container": {
+              "display": "flex",
+              "-webkit-align-items": "center",
+              "align-items": "center",
+              "-webkit-justify-content": "center",
+              "justify-content": "center"
+            },
+            "@media (min-width: 768px)": {
+              ".mbr-section-subtitle": {
+                "margin-bottom": "0"
+              }
+            }
+          },
+          "_name": "info2",
+          "_customHTML": "<section class=\"info2\" group=\"Testimonials & Info\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!--Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Button\" name=\"showButton\" checked>\n        <input type=\"checkbox\" title=\"Text on Left/Right\" name=\"flexDirection\" condition=\"(showTitle || showSubtitle) && showButton\" checked>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/1-2000x1051.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#232323\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-6 mbr-col-lg-8\" mbr-if=\"showTitle || showSubtitle\">\n                <h2 class=\"mbr-section-title align-right mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"></h2>\n                <h3 class=\"mbr-section-subtitle align-right mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">\n                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum atque, rerum excepturi fuga reprehenderit laudantium, dolorum autem iusto ipsum harum perspiciatis nobis sequi sint.\n                </h3>\n            </div>\n            <div class=\"btn-container mbr-col-sm-12 mbr-col-md-6 mbr-col-lg-4\" mbr-if=\"showButton\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-white-outline\" href=\"https://www.google.com.tw/maps/place/%E6%96%B0%E6%A8%82%E5%9C%92%E7%B2%BE%E5%93%81%E6%9C%83%E9%A4%A8+New+Paradise+KTV+Club/@22.6290026,120.2985834,17z/data=!3m1!4b1!4m5!3m4!1s0x346e0488fbb3863b:0x24cb627bc74daf22!8m2!3d22.6289977!4d120.3007775?hl=zh-TW\" data-app-placeholder=\"Type Text\">位置資訊</a> <a class=\"btn btn-primary-outline\" href=\"index.html\" data-app-placeholder=\"Type Text\">返回首頁</a> <a class=\"btn btn-secondary-outline\" href=\"tel:+886958291360\" data-app-placeholder=\"Type Text\">預約訂位<br></a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rVAeeodHjh",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "info2-5b"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "p": {
+              "margin": "0",
+              "color": "#ffffff"
+            }
+          },
+          "_name": "footer1",
+          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background6.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#232323\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><b><a href=\"tg://resolve?domain=@newpardise520\" class=\"text-secondary\">聯絡新樂園客服</a> -&nbsp;</b><i><a href=\"terms.html\" class=\"text-secondary\">服務條款</a></i><b> - <a href=\"policy.html\" class=\"text-secondary\">隱私權政策</a>&nbsp;- <a href=\"https://paradise.nctu.me/games/%E6%AD%A6%E6%BC%A2\">小遊戲</a></b><b><a href=\"policy.html\" class=\"text-secondary\"><br></a></b>©新樂園精品會館 - 2020年 版權所有</p>\n        </div>\n    </div>\n</section>",
+          "_cid": "rVAeeoF1ER",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "footer",
+          "_params": {},
+          "_anchor": "footer1-5c"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "min-height": "80px",
+            ".brand-name": {
+              "color": "@primaryColor",
+              "margin": "0"
+            },
+            ".nav-item:focus, .nav-link:focus": {
+              "outline": "none"
+            },
+            ".navbar-nav": {
+              "list-style-type": "none",
+              "display": "flex",
+              "-webkit-flex-direction": "row",
+              "flex-direction": "row",
+              "padding-left": "0",
+              ".nav-link": {
+                "margin": ".667em 1em",
+                "font-weight": "normal"
+              }
+            },
+            "@media (min-width: 992px)": {
+              ".dropdown-menu .dropdown-toggle:after": {
+                "content": "''",
+                "border-bottom": "0.35em solid transparent",
+                "border-left": "0.35em solid",
+                "border-right": "0",
+                "border-top": "0.35em solid transparent",
+                "margin-left": "0.3rem",
+                "margin-top": "-0.3077em",
+                "position": "absolute",
+                "right": "1.1538em",
+                "top": "50%"
+              }
+            },
+            "@media (max-width: 991px)": {
+              "ul.navbar-nav": {
+                "-webkit-flex-direction": "column !important",
+                "flex-direction": "column !important",
+                "li": {
+                  "margin": "auto"
+                }
+              },
+              ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]:after": {
+                "content": "''",
+                "margin-left": ".25rem",
+                "border-top": "0.35em solid",
+                "border-right": "0.35em solid transparent",
+                "border-left": "0.35em solid transparent",
+                "border-bottom": "0",
+                "top": "55%"
+              },
+              ".nav-dropdown .dropdown-menu .dropdown-item": {
+                "-webkit-justify-content": "center",
+                "justify-content": "center",
+                "display": "flex !important",
+                "-webkit-align-items": "center",
+                "align-items": "center"
+              }
+            },
+            ".nav-dropdown .dropdown-menu": {
+              "border-radius": "0",
+              "border": "0",
+              "left": "0",
+              "margin": "0",
+              "min-width": "10rem",
+              "padding-bottom": "1.25rem",
+              "padding-top": "1.25rem",
+              "position": "absolute",
+              ".dropdown-item": {
+                "font-weight": "400",
+                "line-height": "2",
+                "display": "flex",
+                "-webkit-align-items": "center",
+                "align-items": "center",
+                "width": "100%",
+                "padding": ".25rem 1.5rem",
+                "clear": "both",
+                "text-align": "inherit",
+                "white-space": "nowrap",
+                "background": "0 0",
+                "border": "0"
+              },
+              ".dropdown": {
+                "position": "relative"
+              }
+            },
+            ".nav-item.dropdown": {
+              "position": "relative",
+              ".dropdown-menu": {
+                "z-index": "-1",
+                "opacity": "0",
+                "pointer-events": "none"
+              },
+              "&:hover": {
+                "& > .dropdown-menu": {
+                  "z-index": "1",
+                  "opacity": "1",
+                  "pointer-events": "all"
+                }
+              }
+            },
+            ".dropdown-menu .dropdown:hover": {
+              "& > .dropdown-menu": {
+                "z-index": "1",
+                "opacity": "1",
+                "pointer-events": "all"
+              }
+            },
+            ".link.dropdown-toggle:after": {
+              "content": "''",
+              "margin-left": ".25rem",
+              "border-top": "0.35em solid",
+              "border-right": "0.35em solid transparent",
+              "border-left": "0.35em solid transparent",
+              "border-bottom": "0"
+            },
+            ".nav-dropdown .dropdown-submenu": {
+              "top": "0"
+            },
+            ".navbar": {
+              "z-index": "100",
+              "display": "flex",
+              "-webkit-flex-direction": "row",
+              "flex-direction": "row",
+              "width": "100%",
+              "min-height": "80px",
+              "transition": "all .3s",
+              "background": "@menuBgColor",
+              ".navbar-logo": {
+                "margin-right": ".8rem",
+                "img": {
+                  "height": "auto"
+                }
+              },
+              "&.navbar-short": {
+                "background": "@menuBgColor !important",
+                ".brand": {
+                  "padding": "0"
+                }
+              },
+              "&.opened": {
+                "transition": "all .3s",
+                "background": "@menuBgColor !important"
+              },
+              ".dropdown-item": {
+                "padding": ".25rem 1.5rem"
+              },
+              ".navbar-collapse": {
+                "display": "flex",
+                "-webkit-justify-content": "flex-end",
+                "justify-content": "flex-end",
+                "z-index": "1",
+                "-webkit-flex-basis": "100%",
+                "flex-basis": "100%",
+                "-webkit-align-items": "center",
+                "align-items": "center",
+                "& when not (@showItems)": {
+                  "display": "none !important"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".navbar-collapse": {
+                  "display": "none",
+                  "position": "absolute",
+                  "top": "0",
+                  "right": "0",
+                  "min-height": "100vh",
+                  "background": "@menuBgColor",
+                  "padding": "1rem 2rem 1rem 2rem",
+                  "& when (@sidebarSide = 'left')": {
+                    "right": "auto",
+                    "left": "0"
+                  }
+                },
+                "&.opened": {
+                  ".navbar-collapse": {
+                    "&.show, &.collapsing": {
+                      "display": "block"
+                    }
+                  },
+                  ".dropdown-menu": {
+                    "top": "0"
+                  }
+                },
+                ".dropdown-menu": {
+                  "position": "relative",
+                  "background": "transparent !important",
+                  ".dropdown-submenu": {
+                    "left": "0 !important"
+                  },
+                  ".dropdown-item:after": {
+                    "right": "auto"
+                  }
+                },
+                ".dropdown-menu .dropdown-item": {
+                  "padding": ".25rem 1.5rem",
+                  "text-align": "center",
+                  "margin": "0"
+                },
+                ".brand": {
+                  "-webkit-flex-shrink": "initial",
+                  "flex-shrink": "initial",
+                  "word-break": "break-word"
+                }
+              }
+            },
+            ".brand": {
+              "display": "flex",
+              "-webkit-flex-shrink": "0",
+              "flex-shrink": "0",
+              "-webkit-align-items": "center",
+              "align-items": "center",
+              "margin-right": "0",
+              "padding": "0",
+              "transition": "all .3s",
+              "word-break": "break-word",
+              "z-index": "1",
+              ".navbar-caption": {
+                "line-height": "inherit !important",
+                "font-weight": "normal"
+              },
+              ".navbar-logo a": {
+                "outline": "none"
+              },
+              ".navbar-caption-wrap": {
+                "display": "flex"
+              }
+            },
+            ".dropdown-item.active,.dropdown-item:active": {
+              "background-color": "transparent"
+            },
+            ".navbar-expand-lg .navbar-nav .nav-link": {
+              "padding": "0"
+            },
+            ".navbar.navbar-expand-lg .dropdown": {
+              ".dropdown-menu": {
+                "background": "@menuBgColor",
+                ".dropdown-submenu": {
+                  "margin": "0",
+                  "left": "100%"
+                }
+              }
+            },
+            ".navbar .dropdown.open > .dropdown-menu": {
+              "display": "block"
+            },
+            "ul.navbar-nav": {
+              "-webkit-flex-wrap": "wrap",
+              "flex-wrap": "wrap"
+            },
+            ".navbar-buttons": {
+              "text-align": "center"
+            },
+            "button.navbar-toggler": {
+              "display": "none",
+              "outline": "none",
+              "width": "31px",
+              "height": "20px",
+              "cursor": "pointer",
+              "transition": "all .2s",
+              "position": "relative",
+              "-webkit-align-self": "center",
+              "align-self": "center",
+              ".hamburger span": {
+                "position": "absolute",
+                "right": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "top": "0",
+                  "transition": "all .2s"
+                },
+                "&:nth-child(2)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(3)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(4)": {
+                  "top": "16px",
+                  "transition": "all .2s"
+                }
+              }
+            },
+            "nav.opened .navbar-toggler:not(.hide) .hamburger span": {
+              "&:nth-child(1)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              },
+              "&:nth-child(2)": {
+                "-webkit-transform": "rotate(45deg)",
+                "transform": "rotate(45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(3)": {
+                "-webkit-transform": "rotate(-45deg)",
+                "transform": "rotate(-45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(4)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              }
+            },
+            ".navbar-dropdown": {
+              "padding": ".5rem 1rem",
+              "& when (@sticky)": {
+                "position": "fixed"
+              }
+            },
+            "a.nav-link": {
+              "display": "flex",
+              "-webkit-align-items": "center",
+              "align-items": "center",
+              "-webkit-justify-content": "center",
+              "justify-content": "center"
+            },
+            ".nav-link,.dropdown-item": {
+              ".mbr-iconfont": {
+                "margin-right": ".2rem"
+              }
+            },
+            ".ampstart-btn": {
+              "display": "flex",
+              "@media (min-width: 992px)": {
+                "display": "none"
+              },
+              "-webkit-align-self": "center",
+              "align-self": "center",
+              "&.hamburger": {
+                "position": "relative",
+                "right": "20px",
+                "margin-left": "auto",
+                "width": "30px",
+                "height": "20px",
+                "background": "none",
+                "border": "none",
+                "cursor": "pointer",
+                "z-index": "1000",
+                "&:focus": {
+                  "outline": "none"
+                },
+                "span": {
+                  "position": "absolute",
+                  "right": "0",
+                  "width": "30px",
+                  "height": "2px",
+                  "border-right": "5px",
+                  "background-color": "@hamburgerColor",
+                  "&:nth-child(1)": {
+                    "top": "0",
+                    "transition": "all .2s"
+                  },
+                  "&:nth-child(2)": {
+                    "top": "8px",
+                    "transition": "all .15s"
+                  },
+                  "&:nth-child(3)": {
+                    "top": "8px",
+                    "transition": "all .15s"
+                  },
+                  "&:nth-child(4)": {
+                    "top": "16px",
+                    "transition": "all .2s"
+                  }
+                }
+              }
+            },
+            "amp-sidebar": {
+              "min-width": "260px!important",
+              "z-index": "1050!important",
+              "background-color": "@menuBgColor"
+            },
+            "amp-sidebar.open:after": {
+              "content": "''",
+              "position": "absolute",
+              "top": "0",
+              "left": "0",
+              "bottom": "0",
+              "right": "0",
+              "background-color": "red"
+            },
+            ".open": {
+              "transform": "translateX(0%) !important",
+              "display": "block!important",
+              "-webkit-transform": "translateX(0%) !important"
+            },
+            ".builder-sidebar": {
+              "background-color": "@menuBgColor",
+              "position": "relative",
+              "min-height": "100vh",
+              "z-index": "1030",
+              "padding": "1rem 2rem",
+              "max-width": "20rem",
+              ".dropdown": {
+                "position": "relative",
+                "&:hover": {
+                  "& > .dropdown-menu": {
+                    "position": "relative",
+                    "text-align": "center"
+                  }
+                }
+              }
+            },
+            ".sidebar": {
+              "padding": "1rem 0",
+              "margin": "0"
+            },
+            ".sidebar > li": {
+              "list-style": "none",
+              "display": "flex",
+              "-webkit-flex-direction": "column",
+              "flex-direction": "column"
+            },
+            ".sidebar a": {
+              "display": "block",
+              "text-decoration": "none",
+              "margin-bottom": "10px"
+            },
+            ".close-sidebar": {
+              "width": "30px",
+              "height": "30px",
+              "position": "relative",
+              "cursor": "pointer",
+              "background-color": "transparent",
+              "border": "none",
+              "&:focus": {
+                "outline": "2px auto @primaryColor"
+              },
+              "span": {
+                "position": "absolute",
+                "left": "0",
+                "top": "14px",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "-webkit-transform": "rotate(45deg)",
+                  "transform": "rotate(45deg)"
+                },
+                "&:nth-child(2)": {
+                  "-webkit-transform": "rotate(-45deg)",
+                  "transform": "rotate(-45deg)"
+                }
+              }
+            },
+            "amp-img": {
+              "margin-right": "1rem",
+              "display": "flex",
+              "-webkit-align-items": "center",
+              "align-items": "center",
+              "height": "~\"@{logoHeight}px\"",
+              "width": "~\"@{logoWidth}px\"",
+              "@media (max-width: 767px)": {
+                "max-height": "35px",
+                "max-width": "35px"
+              }
+            }
+          },
+          "_name": "menu2",
+          "_customHTML": "<section class=\"menu horizontal-menu\" group=\"Menu\" plugins=\"DropDown, amp-main,amp-sidebar\" global=\"\" once=\"menu\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked=\"\">\n        <input type=\"range\" title=\"Logo Height\" inline=\"\" name=\"logoHeight\" min=\"35\" max=\"120\" value=\"67\" step=\"1\" condition=\"showLogo\">\n        <input type=\"range\" title=\"Logo Width\" inline=\"\" name=\"logoWidth\" min=\"35\" max=\"120\" value=\"70\" step=\"1\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\" checked=\"\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked=\"\">\n        <select title=\"Sidebar Side\" name=\"sidebarSide\">\n            <option value=\"left\">Left</option>\n            <option value=\"right\" selected=\"\">Right</option>\n        </select>\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#4ea2e3\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n\n    <nav class=\"navbar navbar-dropdown navbar-expand-lg\" mbr-class=\"{'navbar-fixed-top':sticky}\">\n      <div class=\"brand\" mbr-if=\"showLogo || showBrand\">\n          <span mbr-if=\"showLogo\" class=\"brand-logo\">\n              <amp-img src=\"@PROJECT_PATH@/assets/images/logo-138x138.png\" layout=\"responsive\" width=\"70\" height=\"70\" alt=\"高雄酒店;新樂園會館\" class=\"mobirise-loader\" title=\"高雄新樂園精品會館酒店\">\n                  <div placeholder=\"\" class=\"placeholder\"></div>\n                  <a href=\"index.html\"><img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/logo-138x138.png\" alt=\"高雄酒店;新樂園會館\" title=\"高雄新樂園精品會館酒店\"></a>\n              </amp-img>\n          </span>\n          <p mbr-text=\"\" mbr-theme-style=\"display-2\" mbr-if=\"showBrand\" class=\"brand-name mbr-fonts-style mbr-bold\" data-app-selector=\".brand-name\">&nbsp;新樂園精品會館<br></p>\n      </div>\n      <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <button class=\"navbar-toggler mb-2\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarNavAltMarkup\" aria-expanded=\"false\" aria-label=\"Toggle navigation\" mbr-if=\"showItems||showButtons\">\n                <div class=\"hamburger\">\n                    <span></span>\n                    <span></span>\n                    <span></span>\n                    <span></span>\n                </div>\n            </button>\n            <ul mbr-menu=\"\" class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-7\" mbr-if=\"showItems\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish &amp;&amp; !showBrand &amp;&amp; !showLogo}\"><li class=\"nav-item dropdown\">\n                    <a class=\"nav-link link text-primary dropdown-toggle\" href=\"https://mobirise.co\" data-app-selector=\".nav-link,.dropdown-item\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" data-app-placeholder=\"Type Text\"><span class=\"mbri-star mbr-iconfont mbr-iconfont-btn\"></span>合作姊妹店</a>\n                    <div class=\"dropdown-menu\">\n                        <a class=\"text-primary dropdown-item\" href=\"https://www.facebook.com/kaiwo9111\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">凱渥精品會館</a>\n                        <a class=\"text-primary dropdown-item\" href=\"https://www.facebook.com/a072855000/\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">王牌精品會館</a><a class=\"text-primary dropdown-item\" href=\"https://www.facebook.com/a072855552/\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">紅樓夢男模會所</a>\n                    </div>\n                </li>\n                <li class=\"nav-item dropdown\">\n                    <a class=\"nav-link link text-primary dropdown-toggle\" href=\"https://www.facebook.com/a072855000/\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>歷史活動照</a><div class=\"dropdown-menu\"><a class=\"text-primary dropdown-item\" href=\"2020年3月活動照-高雄新樂園精品會館.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2020年3月-粉系俏護士</a><a class=\"text-primary dropdown-item\" href=\"2020年2月活動照-高雄新樂園精品會館.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2020年2月-夜尋夢中人</a><a class=\"text-primary dropdown-item\" href=\"2020年1月活動照-高雄新樂園精品會館.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">2020年1月-鼠錢數到爽</a></div>\n                </li><li class=\"nav-item dropdown\">\n                    <a class=\"nav-link link text-primary dropdown-toggle\" href=\"http://lin.ee/4U8Pf5d\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>消費/諮詢</a><div class=\"dropdown-menu\"><a class=\"text-primary dropdown-item\" href=\"新樂園會館-消費玩法.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">消費玩法</a><a class=\"text-primary dropdown-item\" href=\"新樂園會館-菜單.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">美食佳餚</a><a class=\"text-primary dropdown-item\" href=\"新樂園會館-酒水.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">美酒首選</a><a class=\"text-primary dropdown-item\" href=\"http://lin.ee/4U8Pf5d\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">聯繫客服</a></div>\n                </li>\n                <li class=\"nav-item\"><a class=\"nav-link link text-primary\" href=\"about.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        關於新樂園<br></a></li></ul>\n            \n            <div mbr-if=\"showButtons\" mbr-buttons=\"\" mbr-theme-style=\"display-7\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary-outline\" href=\"tel:+886968501623\" data-app-placeholder=\"Type Text\">立即來電</a></div>\n      </div>\n      <button class=\"navbar-toggler hide\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarNavAltMarkup\" aria-expanded=\"false\" aria-label=\"Toggle navigation\" mbr-if=\"showItems||showButtons\">\n          <div class=\"hamburger\">\n              <span></span>\n              <span></span>\n              <span></span>\n              <span></span>\n          </div>\n      </button>\n      <button on=\"tap:sidebar.toggle\" class=\"ampstart-btn hamburger\" mbr-class=\"{'sticky-but':sticky}\" mbr-if=\"showItems||showButtons\">\n        <span></span>\n        <span></span>\n        <span></span>\n        <span></span>\n    </button>\n    </nav>\n\n  <!-- AMP plug -->\n    <amp-sidebar id=\"sidebar\" layout=\"nodisplay\" side=\"{{sidebarSide}}\">\n        <div class=\"builder-sidebar\" id=\"builder-sidebar\">\n            <button on=\"tap:sidebar.close\" class=\"close-sidebar\">\n                <span></span>\n                <span></span>\n            </button>\n        </div>\n    </amp-sidebar>\n\n</section>",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise-amp",
+          "_cid": "rVAeepf1kc",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "menu",
+          "_params": {},
+          "_anchor": "menu2-5d"
         }
       ]
     }
